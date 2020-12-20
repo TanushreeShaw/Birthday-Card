@@ -1,2 +1,2 @@
 # Birthday-Card
-A simple Birthday Card App made by using Java Language.
+A simple single screen Birthday Card App made by using Java Language.
